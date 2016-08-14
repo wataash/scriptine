@@ -1,3 +1,7 @@
+A fork of `olt/scriptine <https://github.com/wataash/scriptine>`_.
+Working on `issues #2 <https://github.com/olt/scriptine/issues/2>`_
+(support for Python 3).
+
 scriptine - Python shell scripting made easy
 ============================================
 
